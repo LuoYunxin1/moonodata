@@ -1,0 +1,6 @@
+MoonOData
+Copyright 2026 MoonOData contributors
+
+This product includes ideas from SAP/python-pyodata (Apache-2.0)
+and implements OASIS OData 4.0 URL/JSON/EDM conventions.
+Python sources are not copied into this repository.
