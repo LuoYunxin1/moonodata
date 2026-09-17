@@ -1,0 +1,7 @@
+import {
+  "LuoYunxin1/moonodata" @odata,
+}
+
+options(
+  "is-main": true,
+)
